@@ -8,7 +8,7 @@ admin.site.site_title = "Lead Manager Portal"
 admin.site.index_title = "Welcome to LeadManager"
 
 urlpatterns = [
-      path('',include('frontend.urls')),
+   
     path('admin/', admin.site.urls),
     path('',include('leads.urls'))
 ]

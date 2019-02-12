@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("throw new Error(\"Module parse failed: Unexpected token (7:6)\\nYou may need an appropriate loader to handle this file type.\\n|   render() {\\r\\n|     return (\\r\\n>       <div>\\r\\n|         <h1>React App</h1>\\r\\n|       </div>\\r\");\n\n//# sourceURL=webpack:///./leadmanager/frontend/src/components/App.js?");
+eval("throw new Error(\"Module parse failed: Unexpected token (7:6)\\nYou may need an appropriate loader to handle this file type.\\n|   render() {\\n|     return (\\n>       <div>\\n|         <h1>React App</h1>\\n|       </div>\");\n\n//# sourceURL=webpack:///./leadmanager/frontend/src/components/App.js?");
 
 /***/ }),
 
@@ -105,7 +105,7 @@ eval("throw new Error(\"Module parse failed: Unexpected token (7:6)\\nYou may ne
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _components_App__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/App */ \"./leadmanager/frontend/src/components/App.js\");\n/* harmony import */ var _components_App__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_components_App__WEBPACK_IMPORTED_MODULE_0__);\n\r\n\r\n\n\n//# sourceURL=webpack:///./leadmanager/frontend/src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _components_App__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./components/App */ \"./leadmanager/frontend/src/components/App.js\");\n/* harmony import */ var _components_App__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_components_App__WEBPACK_IMPORTED_MODULE_0__);\n\n\n\n\n//# sourceURL=webpack:///./leadmanager/frontend/src/index.js?");
 
 /***/ })
 

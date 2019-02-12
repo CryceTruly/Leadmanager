@@ -10,5 +10,7 @@ admin.site.index_title = "Welcome to LeadManager"
 urlpatterns = [
    
     path('admin/', admin.site.urls),
-    path('',include('leads.urls'))
+    path('',include('leads.urls')),
+    path('',include('accounts.urls'))
+    
 ]
